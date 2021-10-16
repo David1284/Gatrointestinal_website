@@ -1,0 +1,140 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 744px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 914px;
+  margin: 64px auto 60px 90px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 534px;
+  margin-top: 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 0 13px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 22px 18px 0 0;
+}
+
+.u-section-1 .u-line-1 {
+  width: 380px;
+  transform-origin: right center 0px;
+  margin: 41px auto 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 22px auto 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 22px 57px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  margin: 89px auto 0;
+  padding: 12px 56px 12px 55px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 632px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-left: 26px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 472px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 330px;
+    height: 3px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    border-style: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 522px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 246px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding-left: 44px;
+    padding-right: 44px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 700px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    order: 0;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 537px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding-right: 34px;
+    padding-left: 33px;
+  }
+}

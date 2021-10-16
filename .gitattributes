@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*. filter=lfs diff=lfs merge=lfs -text
+Gatrointestinal_website/** filter=lfs diff=lfs merge=lfs -text
